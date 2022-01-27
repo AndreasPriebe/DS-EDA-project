@@ -1,6 +1,6 @@
 # ds-project-EDA
 
-Template for creating ds simple projects
+A first EDA project to explore some Data about housing in the King Country area (Seattle).
 
 ## Requirements
 
