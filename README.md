@@ -2,7 +2,7 @@
 
 A first EDA project to explore some Data about housing in the King Country area (Seattle).
 
-Your can find the EDA as a Jupyter Notebooks File [!here](/EDA)
+Your can find the EDA as a Jupyter Notebooks File [here](/EDA.ipynb)
 
 ## Requirements
 
