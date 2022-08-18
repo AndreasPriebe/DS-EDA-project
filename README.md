@@ -1,4 +1,4 @@
-# ds-project-EDA
+# EDA Project
 
 **A first EDA project to explore some Data about housing market in the King Country Area (Seattle).**
 
